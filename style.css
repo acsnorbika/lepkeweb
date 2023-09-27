@@ -14,3 +14,6 @@ table{
 a:visited, a:active{
     color: black;
 }
+img{
+    border: 1px solid;
+}
