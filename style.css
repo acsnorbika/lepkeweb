@@ -1,0 +1,16 @@
+body{
+    background-color: #2f4f4f;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+table{
+    background-image: url(./kepek/hatter.jpg);
+    width: 640px;
+    margin: 0 auto;
+    display: block;
+}
+a:visited, a:active{
+    color: black;
+}
